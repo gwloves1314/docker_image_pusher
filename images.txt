@@ -1,6 +1,8 @@
-#支持私库
-registry.hf.space/bhaskartripathi-pdfchatter:latest
-opengrok/docker
+# 模板一
 xhofe/alist:latest
-#支持指定架构
+
+# 模板二
 --platform=linux/arm64 xiaoyaliu/alist
+
+# 模板三
+opengrok/docker
