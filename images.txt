@@ -1,8 +1,5 @@
 # 模板一
-xhofe/alist:latest
+nginx
 
 # 模板二
 --platform=linux/arm64 xiaoyaliu/alist
-
-# 模板三
-opengrok/docker
